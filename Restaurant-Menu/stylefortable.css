@@ -1,0 +1,39 @@
+table{
+            font-size: 40px ;
+            background-color:rgb(232, 245, 233);
+            padding:30px;
+            justify-content: center;
+            display: block; 
+            margin: 0 auto;
+        }
+        th, td { 
+            border: 1px solid #333333;
+            padding: 10px; 
+            text-align: left; 
+        }
+        th {
+            background-color: #A5D6A7; 
+            color: #000; 
+        }
+        p{
+            background-color:rgb(25, 199, 197);
+            color: white;
+            padding:20px;
+            font-size: 30px;
+            border-radius: 25px;
+        }
+        .class{
+            width: 400px;
+            text-align: center;
+            background-color:rgb(181, 137, 56);
+            border-radius: 30px;
+            margin-bottom:50px;
+            display: block; 
+            margin: 0 auto;
+        }
+        .back{
+            background-color:yellowgreen;
+            color: white;
+            font-family: Arial;
+            text-align: center;
+        }

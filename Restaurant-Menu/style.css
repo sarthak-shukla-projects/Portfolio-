@@ -1,0 +1,117 @@
+            h1{
+                font-family: Arial;
+                text-align: center;
+                background-color: rgb(28, 185, 229);
+                color: white;
+                padding-top: 30px;
+                padding-bottom: 30px;
+                border-radius:320px;
+                margin-left: 100px;
+                margin-right:100px;
+            }
+            p{
+                font-weight:bold;
+                margin-bottom:0px;
+            }
+            
+            ul{
+                margin-top:0;
+            }
+
+
+            .qualities{
+                background-color:rgb(83, 139, 153);
+                color: white;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                font-size:30px;
+            }
+
+            .about-us{
+                font-weight:normal;
+                margin-top:0px;
+                background-color: rgb(66, 173, 94);
+                color:white;
+                padding-top: 10px;
+                padding-bottom:10px;
+                padding-left:15px;
+                padding-right:15px;
+                font-size: 30px;
+            }
+            h2{
+                margin-bottom: 0px;
+                background-color:rgb(66, 173, 94);
+                color: rgb(255, 255, 255);
+                padding-top: 10px;
+                padding-bottom: 0px;
+                padding-left:15px;
+                padding-right:15px;
+                font-size: 35px;
+            }
+
+            .line{
+                text-align: center;
+                font-size: 25px;
+                margin-bottom: 20px;
+                font-size: 50px;
+            }
+
+            button{
+                font-size: 20px;
+                text-align:center;
+                background-color: rgba(240, 8, 8, 0.909);
+                color: white;
+                border:none;
+                border-radius: 20px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                cursor: pointer;
+                justify-content: center;
+                padding-top:10px;
+                padding-bottom:10px;
+                padding-left: 60px;
+                padding-right:60px;
+                display: block; 
+                margin: 0 auto;  
+            }
+            .main{
+                padding-left: 81px;
+                padding-right:83px;
+            }
+            .sweet{
+                margin-bottom: 30px;
+            }
+            button:hover{
+                opacity:0.8;
+            }
+            button:active{
+                background-color:white;
+                color:rgba(240, 8, 8, 0.909);
+            }
+
+            footer{
+                background-color: rgb(241, 248, 233);
+                color: black;
+                font-size: 40px;
+            }
+
+            .starter-menu{
+                color: inherit;
+                text-decoration: none;
+                display: inline-block;
+            }
+            .drink{
+                color: inherit;
+                text-decoration: none;
+                display: inline-block;
+            }
+            .main-c{
+                color: inherit;
+                text-decoration: none;
+                display: inline-block;
+            }
+            .sweets{
+                color: inherit;
+                text-decoration: none;
+                display: inline-block;
+            }
